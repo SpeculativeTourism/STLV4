@@ -1,6 +1,6 @@
-export const AIRTABLE_BASE = 'appB81x13h63bQPzN';
+export const AIRTABLE_BASE = 'appK9wuJTjiATetmj';
 export const AIRTABLE_API_KEY = 'keysbVnYZk16tqIT0';
-export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/shrPuoUh3Nhplwch9';
+export const AIRTABLE_DETAILS_FORM = 'https://airtable.com/embed/shrki4ABQUGM90Siy';
 
 export const MAPBOX_STYLE = 'mapbox://styles/atlasmedliq/cl59k9bun000y14rzt3yy5ljt';
 export const MAPBOX_BASE_STYLE = 'mapbox://styles/atlasmedliq/ckiodibg82x1k17tcof8e9pmd';
